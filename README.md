@@ -1,4 +1,4 @@
-# k8s-fluentd-logging-example
+# Kubernetes + fluentd example
 
 Replicates sending Application Logs from Kubernetes on-prem cluster using Sidecar Fluentd to BigQuery.
 
